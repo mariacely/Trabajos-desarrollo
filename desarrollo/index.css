@@ -1,0 +1,67 @@
+html {
+    min-height: 100%;
+}
+
+body{
+    background-image: linear-gradient(170deg, #ffba90 0, #ffbe85 3.33%, #ffc37d 6.67%, #ffc975 10%, #ffce70 13.33%, #ffd36d 16.67%, #f3d76c 20%, #e5dc6e 23.33%, #d7e072 26.67%, #c8e478 30%, #b8e780 33.33%, #a7ea89 36.67%, #96ed94 40%, #82efa1 43.33%, #6df1ae 46.67%, #53f2bc 50%, #2ef3ca 53.33%, #00f4d9 56.67%, #00f4e8 60%, #00f4f6 63.33%, #00f3ff 66.67%, #00f2ff 70%, #00f1ff 73.33%, #00efff 76.67%, #00ecff 80%, #00eaff 83.33%, #23e6ff 86.67%, #5ae2ff 90%, #7ddeff 93.33%, #9adaff 96.67%, #b4d5ff 100%);
+
+}
+h1 {
+    color: turquoise;
+    text-align: center;
+}
+img {
+    width: 700px;
+    border-radius: 30%;
+}
+.imagen{
+    display: flex;
+    justify-content: center;
+}
+a{
+ color: white;
+}
+
+.todo-texto {
+    display: flex;
+    justify-content: space-around;
+}
+
+.texto{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    text-align: justify;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+h2{
+    margin-left: 20px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.cuadro img {
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.cont-img-cuadro {
+    display: flex;
+    justify-content: center;
+}
+
+.cuadro h3 {
+    text-align: center;
+}
+
+button {
+    background-color: red !important;
+    border: none;
+}
